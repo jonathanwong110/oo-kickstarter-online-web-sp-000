@@ -12,7 +12,7 @@ class Project
   end
   
   def add_project(project)
-    backer.
+    back_project
   end
   
 end
