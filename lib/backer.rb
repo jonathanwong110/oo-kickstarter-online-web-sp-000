@@ -13,8 +13,4 @@ class Backer
     @backed_projects
   end
   
-  def add_project(project)
-    puts nil
-  end
-  
 end
